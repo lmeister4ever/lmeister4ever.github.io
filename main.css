@@ -170,6 +170,8 @@ p {
 
 .small-image-icons:hover {
     box-shadow: 0 0 100px rgb(25, 96, 136);
+    max-width: 140px;
+    max-height: 140px;
 }
 
 .centered-flex {
